@@ -1,0 +1,16 @@
+{
+  "normal": {
+    "drift_oscilador_ns": 1.4,
+    "sincronizacao_constelacao_pct": 98.6,
+    "integridade_sinal_l1_l5_pct": 97.2,
+    "precisao_efemeride_m": 0.8,
+    "margem_potencia_pct": 72.0
+  },
+  "critico_sinal": {
+    "drift_oscilador_ns": 7.8,
+    "sincronizacao_constelacao_pct": 86.5,
+    "integridade_sinal_l1_l5_pct": 82.1,
+    "precisao_efemeride_m": 3.4,
+    "margem_potencia_pct": 24.0
+  }
+}
