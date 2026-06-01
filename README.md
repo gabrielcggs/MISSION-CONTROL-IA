@@ -71,6 +71,4 @@ O prompt de sistema está em [`prompts/system_prompt.md`](prompts/system_prompt.
    SaaS de insights operacionais — assinatura por frota ou constelação, com alertas automatizados em Python e relatórios em linguagem natural gerados por IA.
 
 ## Vídeo de demonstração
-🔗 [Assistir demonstração no YouTube](https://www.youtube.com/watch?v=SEU_ID_AQUI)
-
-> Quando o vídeo estiver pronto, substitua `SEU_ID_AQUI` pelo ID real e configure como **Não listado** no YouTube.
+🔗 [Assistir demonstração no YouTube](https://youtu.be/8iq0elkABNA)
